@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.tmp
+
+# Never commit recordings, transcripts or exports (client data)
+*.transcript.*
+*.wav
+*.mp3
+*.m4a
+*.aac
+*.flac
+*.ogg
+*.opus
+*.wma
+*.aiff
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.m4v
+*.avi
+
+# Vocabulary lists live in %APPDATA%\Transcriber\vocabulary, but just in case:
+vocabulary/
