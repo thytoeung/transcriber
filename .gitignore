@@ -23,3 +23,6 @@ __pycache__/
 
 # Vocabulary lists live in %APPDATA%\Transcriber\vocabulary, but just in case:
 vocabulary/
+
+# Local demo assets and post drafts
+demo/
